@@ -1,0 +1,5 @@
+# Convert String to a Date 
+
+In Elixir, the function ```Date.from_iso8601/2''' is used to create a ```Date```
+
+
