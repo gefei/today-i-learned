@@ -1,4 +1,4 @@
 # Tour d'horizon
 
-"Tower of the horizon": an outstanding overview
+"Visit of the horizon": an outstanding overview
 
