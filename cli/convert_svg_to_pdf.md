@@ -1,10 +1,6 @@
-# Convert SVG to PDF on a Mac
+# Convert SVG to PDF on Mac or Linux
 
-First install `librsvg` if necessary. This can be done by brew.
-
-```
-brew install librsvg
-```
+First install `librsvg` if necessary. On a Mac, this can be done with brew.
 
 Then you can simply convert by (taken from https://apple.stackexchange.com/a/438164)
 
